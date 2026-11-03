@@ -48,3 +48,9 @@ off of the LMC compiled kernel. the current plan is to aim to get it running on 
 as that is what i have to hand (Hence the reason for aarm64 based kernel for now)
 
 ## Current timeline
+currently the runtime isn't the biggest, as specifications are still being worked on,
+if you have any ideas or requests, please let me know via github, or the email on my github
+
+this is the current timeline:
+~~ Starting the toolchain ~~
+building basic data structures
