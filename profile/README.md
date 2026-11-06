@@ -52,5 +52,5 @@ currently the runtime isn't the biggest, as specifications are still being worke
 if you have any ideas or requests, please let me know via github, or the email on my github
 
 this is the current timeline:
-~~ Starting the toolchain ~~
-building basic data structures
+~~Starting the toolchain~~ <br>
+building basic data structures <br>
